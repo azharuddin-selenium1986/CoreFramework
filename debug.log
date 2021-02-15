@@ -1,0 +1,16 @@
+[1029/205448.497:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1104/175706.948:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1104/175706.949:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1104/202401.084:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1104/210932.962:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/121237.405:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/121237.405:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1116/121330.247:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/155220.332:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/155220.333:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1116/155413.585:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/155413.586:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1116/163719.466:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1122/034519.632:ERROR:file_io_win.cc(162)] CreateFile C:\Users\azhar\AppData\Local\Temp\scoped_dir16140_2134669964\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1122/034519.638:ERROR:file_io_win.cc(171)] CreateFile C:\Users\azhar\AppData\Local\Temp\scoped_dir16140_2134669964\Crashpad\reports\9dc7cdee-d200-4b17-b131-496f9af36f05.dmp: The system cannot find the path specified. (0x3)
+[1122/034519.638:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed

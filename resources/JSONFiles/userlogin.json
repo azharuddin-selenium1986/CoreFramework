@@ -1,0 +1,16 @@
+{
+   "userlogins":[
+      {
+         "username":"azhar.sqa@gmail.com",
+         "password":"Test@123"
+      },
+      {
+         "username":"azhar.sqa2@gmail.com",
+         "password":"Test@1234"
+      },
+      {
+         "username":"azhar.sqa3@gmail.com",
+         "password":"Test@12366"
+      }
+   ]
+}
